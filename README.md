@@ -1,2 +1,2 @@
 # AINFT
-Smart contracts from failed nft project 
+Smart contracts from a failed nft project back in 2021-2022
